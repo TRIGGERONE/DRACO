@@ -5,7 +5,7 @@ Implementation of Digital Oscillator-inspired Ising Machine for solving Combinat
 python with Scipy and Pytorch
 
 ## This codebase includes the following components:
-1. SystemVerilog-based microarchitectural RTL model of the processor (in ./hw/rtl/) and a testbench (in ./hw/tb/).
+1. SystemVerilog-based microarchitectural RTL model of the accelerator (in ./hw/rtl/) and testbench files (in ./hw/tb/).
 2. Python-based Subgraph Updating Scheme (in ./src/)
 3. Maxcut problems for experiments (in ./data/)
 
