@@ -1,5 +1,5 @@
 # DRACO
-Implementation of Digital Oscillator-inspired Ising Machine for solvinf Combinatroial Optimization Problems (DRACO)
+Implementation of Digital Oscillator-inspired Ising Machine for solving Combinatroial Optimization Problems (DRACO: Digital and Reliable Accelerator for solving Combinatorial Optimization problems)
 
 ## Required environment
 python with Scipy and Pytorch
